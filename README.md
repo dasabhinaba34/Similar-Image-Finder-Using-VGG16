@@ -14,7 +14,7 @@ Here's the few you need to follow to run the Project in your system.
 - Execute find_similar_images.ipynb .You will have to provide the value of N (number of images you want to display).
 ## Screenshots of Output
 
-![Coming Soon](https://drive.google.com/file/d/12huQCAkAStX3R37KQ9yvawb3hsAESTZr/view?usp=share_link)
+<img width="1044" alt="Output 1" src="https://user-images.githubusercontent.com/73490217/212988462-966463b9-847d-4cde-bf4d-ad153ba9e102.png">
 
 
 ## Contributors
